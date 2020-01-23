@@ -3,6 +3,6 @@
     "email": "email",
     "order_items_attributes": {
         "product_id": "item.id",
-        "qty": "item.quantity"
+        "qty": "item.quantities"
     }
 }
